@@ -24,11 +24,11 @@
     </div>
 
     <!-- Nav Item - Dashboard -->
-    <li class="nav-item active">
+    <!-- <li class="nav-item active">
         <a class="nav-link" href="obat">
             <i class="fas fa-fw fa-tachometer-alt"></i>
             <span>Obat</span></a>
-    </li>
+    </li> -->
     <!-- Nav Item - Dashboard -->
     <li class="nav-item active">
         <a class="nav-link" href="user">
